@@ -1,0 +1,4 @@
+Training
+========
+
+Przyklad zakladania repo
